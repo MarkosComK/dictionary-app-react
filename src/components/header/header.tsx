@@ -3,7 +3,7 @@ import React from 'react'
 function header() {
   return (
     <div>
-        <header className="flex items-center justify-between py-4">
+        <header className="flex items-center justify-between">
             <i>
                 <svg className="w-8 h-9 text-gray-600" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 38">
                 <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.5">
